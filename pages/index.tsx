@@ -18,7 +18,7 @@ export default function Index({ allPosts, preview }) {
   return (
     <Layout preview={preview}>
       <Head>
-        <title>Next.js Blog Example with {CMS_NAME} and Static Web Apps</title>
+        <title>1Next.js Blog Example with {CMS_NAME} and Static Web Apps</title>
       </Head>
       <Container>
         <Intro />
